@@ -1,0 +1,16 @@
+h1{
+    text-align: center; 
+    font-weight: 700;
+    text-decoration: Wavy magenta underline; 
+}
+h2{
+    text-align: start;
+    font-weight: normal;
+    text-decoration: dotted pink line-through;
+}
+p{
+    text-align: start;
+}
+a{
+    text-decoration: none;
+}
