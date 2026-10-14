@@ -2,16 +2,20 @@ h1{
     text-align: center; 
     text-decoration: Wavy magenta underline; 
     letter-spacing: 2px;
+    font-size: 50px;
+    font-family: avant grade, didot;
 }
 h2{
     text-align: start;
     font-weight: normal;
-    text-decoration: dotted pink line-through;
+    text-decoration: double grey overline;
+    font-family: impact;
 }
 p{
     text-align: justify;
     font-weight: 400;
     line-height: 1.5;
+    font-size: 15px;
 }
 a{
     text-decoration: none;
